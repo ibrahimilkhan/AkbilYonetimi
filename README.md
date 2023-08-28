@@ -1,4 +1,4 @@
-# AkbilYonetimi_Sunum
+# AkbilYonetimi
 
 Wissen Akademie Full Stack Software Developer eğitimi kapsamında yapılan ilk projedir.
 
