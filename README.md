@@ -1,10 +1,7 @@
-# AkbilYonetimi
-
 ## Kullanılan Teknolojiler Hakkında Özet Bilgiler
 
-* C# diliyle yazılmış Windows Forms uygulamasıdır.
-* Projede .NET Framework 4.7.2 kullanılmıştır.
-* Veri tabanı bağlantısı Entity Framework - Database First yaklaşımıyla oluşturulmuştur.
+* Framework: Windows Forms
+* ORM: Entity Framework - Database First
 * Data Access Layer ve User Interface olmak üzere iki katmandan oluşmaktadır.
 
 ## Proje Hakkında Genel Bilgiler
